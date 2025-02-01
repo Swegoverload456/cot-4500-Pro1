@@ -1,5 +1,7 @@
 This repository is an implementation of all algorithms in Chapter 2, done in Python.
 
+Made by: Juan Velasquez
+
 You need Python to run this program
 
 To run this program you must first navigate to the directory. To do this, you must open a terminal and cd into the test folder.
